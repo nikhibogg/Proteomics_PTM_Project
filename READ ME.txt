@@ -1,0 +1,23 @@
+READ ME
+
+This file contains information for all the items needed to run the various programs, results from running the program and any data analysis done.
+
+Acetylation
+
+to run GPS-PAIL, just make sure to install the program, that is all that is needed to get acetylation ptm sites
+GPS PAIL - Nikhi
+- Contains program
+
+For PTM GPT 2, make sure to install: torch, evaluate, numpy, pandas, scikit-learn, transformers
+PTM_GPT_2_Acetylation - Nikhi
+- Folder with models
+- Folder with PTM GPT 2
+- Contains script required to run it - scripts mainly modified Dakota, modified by Nikhi a little bit to make it work for Acteylation
+- Output
+- Filtered output to reformat into excel
+- Pull_Info script to format the output from PTM GPT 2
+- excel file with results from PTM GPT 2
+- not in folder but needed to run
+	- fasta files
+
+Phosphorylatiom
