@@ -2,20 +2,39 @@ READ ME
 
 This file contains information for all the items needed to run the various programs, results from running the program and any data analysis done.
 
-Acetylation
+Acetylation:
 
-to run GPS-PAIL, just make sure to install the program, that is all that is needed to get acetylation ptm sites
-GPS PAIL - Nikhi
-- Contains program
+	MusiteDeep:
+	- Only non-standard required library is Biopython
+	- Run with "python ace_musite.py <input fasta>
+	- The program will use the MusiteDeep web server to predict lysine acetylation in each protein of the input file that has 1000 AA or less
+	with a confidence level of 0.5
+	- The results will be output as a csv file with one column that lists the input header followed by a list of predicted residues.
+	- Provided in the folder are the three Ace control datasets and their output when run with the script
+	
+	Sitetack:
+	- After removing rows with low confidence levels, sitetack_data_transform.py will turn the CSV files output
+	by the Sitetack webserver into a format usable by the "Parse_Ace_Tool_Output.py" script (in the Acetylation_Parsing folder)
+	- Provided are the three files of Sitetack output ready to be run through the script
+	- Simply type "python sitetack_data_transform.py <csv file>" to reformat the data
+	
+	to run GPS-PAIL, just make sure to install the program, that is all that is needed to get acetylation ptm sites
+	GPS PAIL - Nikhi
+	- Contains program
+	
+	For PTM GPT 2, make sure to install: torch, evaluate, numpy, pandas, scikit-learn, transformers
+	PTM_GPT_2_Acetylation - Nikhi
+	- Contains script required to run it - scripts mainly modified Dakota, modified by Nikhi a little bit to make it work for Acteylation
+	- Output
+	- Filtered output to reformat into excel
+	- Pull_Info script to format the output from PTM GPT 2
+	- excel file with results from PTM GPT 2
+	- not in folder but needed to run
+		- fasta files
 
-For PTM GPT 2, make sure to install: torch, evaluate, numpy, pandas, scikit-learn, transformers
-PTM_GPT_2_Acetylation - Nikhi
-- Contains script required to run it - scripts mainly modified Dakota, modified by Nikhi a little bit to make it work for Acteylation
-- Output
-- Filtered output to reformat into excel
-- Pull_Info script to format the output from PTM GPT 2
-- excel file with results from PTM GPT 2
-- not in folder but needed to run
-	- fasta files
+	Counting true/false positives/negatives for acetylation data:
+	- 
+
+
 
 Phosphorylatiom
