@@ -1,0 +1,100 @@
+NCBI_Acc#,Gene Name,Protein description,Start AA,End AA,Peptide sequence,Phosphorylated residue
+gi|116075932,tuf,translation elongation factor Tu,309,318,FKGEVYILTK,Y314
+gi|116077161,pgk,phosphoglycerate kinase,222,249,VLIGGGMTYTFYKAQGIEIGNSLVEEDK,"S243,Y233"
+gi|116076509,divIVA,cell division protein DivIVA,1,11,MPITSLEIKDK,S5
+gi|116076509,divIVA,cell division protein DivIVA,179,202,EVVSEVLGEPIPAPIEEEPIDMTR,T201
+gi|116077074,dnaK,chaperone protein DnaK,241,272,KDLSGVTSTQISLPFITAGEAGPLHLEMTLTR,"S244,S248,T247"
+gi|116077446,pyk,pyruvate kinase,384,401,TEVMASAVKDATSSMDIK,S389;S396;S397
+gi|116076178,ldh,L-lactate dehydrogenase,146,159,VIGSGTSLDSARFR,T151
+gi|116076186,pepN,aminopeptidase N,28,49,TFSGKVTITGQAQSDRISLHQK,S30
+gi|116077212,groL,chaperonin GroEL,367,388,LAKLSGGVAVIKVGAATETELK,T383;T385
+gi|116077580,phpA,pneumococcal histidine triad protein A precursor,389,401,IDSNSSLVSQLVR,S394;S397
+gi|116076101,rpsA,ribosomal protein S1,276,288,LAKGDVVEGTVKR,T285
+gi|116075931,amiA,"oligopeptide ABC transporter, oligopeptide-binding protein AmiA",293,313,DNIYYTQSGSGIAGLGVNIDR,S302
+gi|116076686,def,peptide deformylase,144,158,HARVTVDYFDKDGEK,T148
+gi|116076368,manL,"PTS system, mannose-specific IIAB components",174,192,LDTRLLHGQVATAWTPDSK,T185
+gi|116077301,rplC,ribosomal protein L3,140,154,RPGSMGPVAPNRVFK,S143
+gi|116076280,rplA,ribosomal protein L1,135,151,NLMPNPKTGTVTMDVAK,S156;T142;T144;T146
+gi|116076919,iga,immunoglobulin A1 protease precursor,179,193,EISGYTYIGYIKEGK,S181;T184
+gi|116076919,iga,immunoglobulin A1 protease precursor,1435,1451,YSIGVYDRITSATWKYR,S1436;T1447
+gi|116076573,pfkA,6-phosphofructokinase,198,214,MEDIVASIKAGYECGKK,S204;Y209
+gi|116076143,metK,S-adenosylmethionine synthetase,283,296,VDRSASYAARYIAK,S286
+gi|116077748,malX,maltose/maltodextrin-binding protein,140,156,VYGAPAVIESLVMYYNK,S149
+gi|116075996,,"oxidoreductase, pyridine nucleotide-disulfide, class I",61,77,DLSFEEVIATKNTITGR,S63;T73;T75
+gi|116077764,pflB,formate acetyltransferase,640,652,LEFFSPGANPSNK,S644;S650
+gi|116077764,pflB,formate acetyltransferase,737,752,ISGYCVNTKYLTPEQK,T744;Y740;Y746
+gi|116076869,rpoA,"DNA-directed RNA polymerase, alpha subunit",154,173,KDNAPVGTLAVDSIYTPVTK,S166
+gi|116076666,glnA,"glutamine synthetase, type I",285,302,HAYNYTAIMNPTVNSYKR,T290;T296;Y287
+gi|116077560,,"protein jag (SpoIIIJ-associated protein ), putative",84,100,TVSEETVDLGHVVDAIK,T89
+gi|116077023,,lipoprotein,30,49,ADNATTIKIATVNRSGSEEK,T35;T40
+gi|116077659,prsA,"protease maturation protein, putative",186,207,TKENGGEITFDSASTEVPEQVK,T194
+gi|116076789,,amino acid-binding permease protein,238,250,ISQINASIETISK,S244
+gi|116077602,rplN,ribosomal protein L14,24,31,VLGGSGRK,S28
+gi|116076348,purA,adenylosuccinate synthetase,125,139,IGTTIKGIGPAYMDK,T128
+gi|116076348,purA,adenylosuccinate synthetase,33,49,YQGGDNAGHTIVIDGKK,Y33;T42
+gi|116076348,purA,adenylosuccinate synthetase,400,417,VSELVGVRISTFSVGPGR,S401;S412;T410
+gi|116076300,rpoC,"DNA-directed RNA polymerase, beta subunit",1147,1156,VLTDAAIRGK,T1149
+gi|116077011,rpoB,"DNA-directed RNA polymerase, beta subunit",698,710,REDGSLDVYHIQK,S702
+gi|116077455,ssb,single-strand binding protein,2,13,INNVVLVGRMTR,T12
+gi|116077438,pheS,"phenylalanyl-tRNA synthetase, alpha subunit",227,243,NISMADLQGTLQLIVQK,S229
+gi|116076936,,conserved hypothetical protein,18,34,KEISETLTDVYASLNDK,T25
+gi|116076631,tyrS,tyrosyl-tRNA synthetase,313,332,EALNITEQLFAGNIKNLSVK,T318;S330
+gi|116077685,ccpA,catabolite control protein A,48,62,LDYRPNAVARGLASK,S61
+gi|116077014,,conserved hypothetical protein,20,33,ISGPPLLDDNEETK,T32
+gi|116076453,adk,adenylate kinase,100,124,TLAELGIELEGIINIEVNPDSLLER,T110;S120
+gi|116077758,,serine/threonine protein kinase,579,596,VTSVAMPSYIGSSLEFTK,Y587;S590
+gi|116077164,infB,initiation factor IF-2,602,616,ADPTVRAIGTVIEAR,T605
+gi|116077164,infB,initiation factor IF-2,501,530,GASVTDITILVVAADDGVMPQTIEAINHSK,S529;T522;
+gi|116076899,,conserved hypothetical protein,73,89,EEFVETQSLDDLIQEMR,S80;T78
+gi|116076649,nrdE,"ribonucleoside-diphosphate reductase, alpha subunit",676,685,QTTRDLSILR,S682;T677;T678
+gi|116077729,prfA,peptide chain release factor 1,140,176,YAEAQGWRFEVMEASMNGVGGFKEVVAMVSGQSVYSK,S154;S175;Y140
+gi|116077666,lysS,lysyl-tRNA synthetase,125,142,TDMGELSIKATHITHLSK,S131;T125;T135
+gi|116076074,cbpC,choline binding protein C,60,84,TYYFGDIGEMVVGWQYLEIPGTGYR,Y83
+gi|116077709,,conserved hypothetical protein,300,314,YVSKNELTQAEVIER,S302;Y300
+gi|116076534,malP,maltodextrin phosphorylase,725,739,VIVNISKAGFFSSDR,S737
+gi|116077693,infA,translation initiation factor IF-1,43,64,NYIRILAGDRVTVEMSPYDLTR,Y44
+gi|116077108,,"amino acid ABC transporter, ATP-binding protein",134,146,ANANPDSLSGGQK,S140;S142
+gi|116077185,prsA,ribose-phosphate pyrophosphokinase,105,112,AREPITSK,S111;T110
+gi|116077567,,"peptidyl-prolyl cis-trans isomerase, cyclophilin-type",4,23,LATLLLLSTVALAGCSSVQR,T6
+gi|116077572,ftsA,cell division protein FtsA,152,163,LEMRGLLYTGPR,T160;Y159
+gi|116077572,ftsA,cell division protein FtsA,101,117,EITDQDVENVVKSALTK,S113; T116
+gi|116076974,ftsY,signal recognition particle-docking protein FtsY,335,360,VVPEAPHETFLALDASTGQNALVQAK,T343
+gi|116076125,,conserved hypothetical protein,26,46,SSLFLGGVAFGTLGLKILASK,S26;S27
+gi|116077548,prtA,cell wall-associated serine protease PrtA,2083,2096,SDSTKDVTATVLDK,S2083;S2085;T2086
+gi|116077548,prtA,cell wall-associated serine protease PrtA,1695,1710,GEAIDKDGNLVTDSSK,S1709;T1706
+gi|116077674,,"ABC transporter, substrate-binding protein",7,30,YSSLAALGLVAAGVLAACSGGAKK,S9
+gi|116075961,rplO,ribosomal protein L15,22,33,GTSSGNGKTSGR,S25
+gi|116076951,,"type II restriction endonuclease, putative",661,694,VQDSSDLLDFSDVTVDDEGNAVVDHEIVVNQQMR,S665
+gi|116076545,hslO,"chaperonin, 33 kDa",45,57,TLIASQILAANEK,S49
+gi|116076748,glmU,UDP-N-acetylglucosamine pyrophosphorylase,446,459,DEYATRLPHHPKNQ,T450
+gi|116076748,glmU,UDP-N-acetylglucosamine pyrophosphorylase,1,17,MSNFAIILAAGKGTRMK,T14
+gi|116076189,alaS,alanyl-tRNA synthetase,777,798,YIASQVSVSDAGALRTFADNWK,S780;S783;S785
+gi|116077565,,conserved hypothetical protein,290,298,LLTNIDLQK,T292
+gi|116076518,ileS,isoleucyl-tRNA synthetase,5,23,DTLNLGKTEFPMRAGLPTK,T6;T22
+gi|116077089,fabK,trans-2-enoyl-ACP reductase II,269,291,AVVHGDVEGGSVMAGQIAGLVSK,S279
+gi|116077025,gatA,glutamyl-tRNA(Gln) amidotransferase subunit A,111,140,TKGMIVVGKTNMDEFAMGGSGETSHYGAT,T111;T120;T139
+gi|116077319,cps2I,"glycosyl transferase, group 1 family protein, putative",107,126,VDIIHMNTLTSFLGAQAAIK,T114
+gi|116077319,cps2I,"glycosyl transferase, group 1 family protein, putative",293,318,EAFGRITVEGMLSGALVIGTNSGGTK,S305
+gi|116076455,engA,phosphoglycerate dehydrogenase-related protein,1,16,MALPTIAIVGRPNVGK,T5
+gi|116076455,engA,phosphoglycerate dehydrogenase-related protein,17,39,STLFNRIAGERISIVEDVEGVTR,T18;T38
+gi|116077353,lytA,autolysin/N-acetylmuramoyl-L-alanine amidase,259,274,TGWVKYKDTWYYLDAK,T259;T267;Y264
+gi|116077508,,"amino acid ABC transporter, amino acid-binding protein/permease protein",100,111,VFTMSDTYYDTK,T110
+gi|116077181,,"hydrolase, TatD family protein",114,130,QIQLSKDLDLPFVVHTR,S118;T129
+gi|116077300,,"peptidase, U32 family protein",7,21,RPEVLSPAGTLEKLK,S12
+gi|116076430,,"sugar ABC transporter, ATP-binding protein",386,416,LMEEFDVRAASELVPAAALSGGNQQKAIIA,S396;S405
+gi|116077244,,"DnaQ family exonuclease/DinG family helicase, putative",220,229,KTEASLEPRK,S224
+gi|116076310,,"amino acid ABC transporter, ATP-binding protein",30,49,RGEVVVIIGPSGSGKSTLLR,S40;S42
+gi|116076566,,conserved hypothetical protein,23,35,NTEKLKDYQSFLK,T24
+gi|116076356,zmpB,zinc metalloprotease ZmpB,1585,1603,NDGEQLYNYDPEKLDSREK,S1600
+gi|116077062,uvrB,"excinuclease ABC, B subunit",535,545,NERGLIQTIGR,T542
+gi|116076727,mfd,transcription-repair coupling factor,760,773,QVDVLTLTATPIPR,T765;T767
+gi|116076727,mfd,transcription-repair coupling factor,784,795,DLSVIETPPTNR,S786
+gi|116076727,mfd,transcription-repair coupling factor,1106,1122,LFLAQDYFKALSVTNLK,T1119
+gi|116077503,,"endo-beta-N-acetylglucosaminidase, putative",92,107,ASEVVAETPSAEAKPK,S93
+gi|116077503,,"endo-beta-N-acetylglucosaminidase, putative",1484,1498,VLPKPTYQPASDQQK,S1494;T1489
+gi|116076736,,metallo-beta-lactamase superfamily protein domain protein,461,490,DLSEDGVVLAVATVDFKSQMILSGPDILSR,S483;S489
+gi|116076616,ppc,phosphoenolpyruvate carboxylase,872,881,RGELSSDQER,S876
+gi|116076616,ppc,phosphoenolpyruvate carboxylase,732,757,AIPWVFSWSQSRVMFPGWYGVGSSFK,S738;S740;S755
+gi|116077321,,folylpolyglutamate synthase,190,209,QGMPLVTGRIAPEALAVIDR,T196
+gi|116077483,,conserved hypothetical protein,11,24,NRMISGVLAGLSDK,S22
+gi|116076124,galR,galactose operon repressor,314,328,KIPSLTMLGTRLTLR,S317;T319;T323
