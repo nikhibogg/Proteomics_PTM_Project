@@ -1,0 +1,9 @@
+sp|Q8DNS0|	4;5;7;11;10;13
+sp|Q8CYJ8|	16;14;11
+tr|Q8CWN6|	10;25
+sp|Q8CY87|	11;13
+sp|Q8CY87|	6;10;15
+tr|Q8DQX6|	6
+tr|Q8DNV9|	6;7;8;14
+S pneumo
+

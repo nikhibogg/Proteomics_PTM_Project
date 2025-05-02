@@ -1,0 +1,8 @@
+README
+
+This contians the prediction date from MustiDeep that was converted into training data for Sitetack
+The previously Identified combine_PTM'S.py scripts were used to convert these predictions from .txt to .xlsx.
+
+The input.txt contains a log of the Fasta file input into the prediction tool.
+No errors or issues occured with prediction limit, despite other people of Musitedeep apparently hitting a limit of protein length.
+

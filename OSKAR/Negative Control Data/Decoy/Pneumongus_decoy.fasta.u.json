@@ -1,0 +1,143 @@
+[
+  {
+    "dir": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources",
+    "file": "uniprotkb_ppneumonia.fasta",
+    "file_extention": ".fasta",
+    "file_root": "uniprotkb_ppneumonia",
+    "full": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources/uniprotkb_ppneumonia.fasta",
+    "is_compressed": false,
+    "json": "uniprotkb_ppneumonia.fasta.u.json",
+    "json_exists": false
+  },
+  {
+    "dir": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources",
+    "file": "Pneumongus_decoy.fasta",
+    "file_extention": ".fasta",
+    "file_root": "Pneumongus_decoy",
+    "full": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources/Pneumongus_decoy.fasta",
+    "is_compressed": false,
+    "json": "Pneumongus_decoy.fasta.u.json",
+    "json_exists": false,
+    "md5": "3f2afff1fe51946a174d3b1a2b05e359"
+  },
+  {
+    "compomics_version": "compomics_utilities_4_11_5",
+    "compress_raw_search_results_if_possible": true,
+    "convert_aa_in_motif": null,
+    "cpus": 63,
+    "decoy_generation_mode": "shuffle_peptide",
+    "decoy_tag": "decoy_",
+    "del_from_params_before_json_dump": [
+      "grouped_psms"
+    ],
+    "engines_create_folders": true,
+    "enzyme": "trypsin",
+    "file_root": "uniprotkb_ppneumonia",
+    "force": false,
+    "helper_extension": ".u.json",
+    "input_dir_path": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources",
+    "input_file": "uniprotkb_ppneumonia.fasta",
+    "input_is_compressed": false,
+    "json_extension": ".u.json",
+    "msgfplus_mzid_converter_version": null,
+    "mzidentml_converter_version": "mzidentml_lib_1_6_10",
+    "mzml2mgf_converter_version": "mzml2mgf_2_0_0",
+    "output_dir_path": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources",
+    "output_file": "Pneumongus_decoy.fasta",
+    "output_file_incl_path": null,
+    "peptide_mapper_converter_version": "upeptide_mapper_1_0_0",
+    "prefix": null,
+    "psm_colnames_to_merge_multiple_values": {},
+    "psm_defining_colnames": [
+      "Spectrum Title",
+      "Sequence",
+      "Modifications",
+      "Mass Difference",
+      "Charge",
+      "Is decoy"
+    ],
+    "psm_merge_delimiter": ";",
+    "raw_ident_csv_suffix": ".csv",
+    "remove_temporary_files": true,
+    "rt_pickle_name": "_ursgal_lookup.pkl",
+    "show_unodes_in_development": false,
+    "translations": {
+      "convert_aa_in_motif": null,
+      "convert_aa_in_motif_key": "convert_aa_in_motif",
+      "decoy_generation_mode": "shuffle_peptide",
+      "decoy_generation_mode_key": "mode",
+      "decoy_tag": "decoy_",
+      "decoy_tag_key": "decoy_tag",
+      "enzyme": "KR;C;P",
+      "enzyme_key": "enzyme",
+      "output_file_incl_path": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources/Pneumongus_decoy.fasta",
+      "output_file_incl_path_key": "output_file"
+    },
+    "unify_csv_converter_version": "unify_csv_1_0_0",
+    "ursgal_resource_url": "https://www.sas.upenn.edu/~sschulze/ursgal_resources/",
+    "validated_ident_csv_suffix": "validated.csv",
+    "validation_score_field": null,
+    "xtandem_converter_version": "xtandem2csv_1_0_0"
+  },
+  {
+    "history": [
+      {
+        "META_INFO": {
+          "citation": "",
+          "distributable": true,
+          "edit_version": 1.0,
+          "engine": {
+            "platform_independent": {
+              "arc_independent": {
+                "exe": "generate_target_decoy_1_0_0.py"
+              }
+            }
+          },
+          "engine_type": {
+            "misc_engine": true
+          },
+          "in_development": false,
+          "include_in_git": true,
+          "input_extensions": [],
+          "name": "Generate Target Decoy",
+          "output_extensions": [
+            ".fasta"
+          ],
+          "output_suffix": "target_decoy",
+          "release_date": null,
+          "utranslation_style": "generate_target_decoy_style_1",
+          "version": "1.0.0"
+        },
+        "engine": "generate_target_decoy_1_0_0",
+        "finfo": {
+          "dir": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources",
+          "file": "uniprotkb_ppneumonia.fasta",
+          "file_extention": ".fasta",
+          "file_root": "uniprotkb_ppneumonia",
+          "full": "/mnt/classes/biol_594_694/home/ors4016/lab6_resources/uniprotkb_ppneumonia.fasta",
+          "is_compressed": false,
+          "json": "uniprotkb_ppneumonia.fasta.u.json",
+          "json_exists": false
+        },
+        "history_addon": {},
+        "status": "complete",
+        "ursgal_version": "0.6.8"
+      }
+    ],
+    "run_status": "scheduled",
+    "time_points": {
+      "generate_target_decoy_1_0_0@/mnt/classes/biol_594_694/home/ors4016/lab6_resources/uniprotkb_ppneumonia.fasta": {
+        "start": 1744481703.5070446,
+        "stop": 1744481706.0743809
+      },
+      "postflight": {
+        "start": 1744481706.0743535,
+        "stop": 1744481706.0743601
+      },
+      "preflight": {
+        "start": 1744481703.5071144,
+        "stop": 1744481703.507116
+      }
+    }
+  }
+]

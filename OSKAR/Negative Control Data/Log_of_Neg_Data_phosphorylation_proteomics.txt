@@ -1,0 +1,10 @@
+S pneumo:
+
+Targets of Minase phophatase signaling pair stkP/PhpP in S pneumoniae and their involvement in cell wall stress.
+https://www.ebi.ac.uk/pride/archive/projects/PXD024033
+The SP1 dataset
+
+Phosphorylation of the juxta membrane domain of the membrane serine/treonine-kinase stkP and characeerization of the impact on the cell cycle of S pneumoniae.
+https://www.ebi.ac.uk/pride/archive/projects/PXD052685
+The QE dataset.
+
